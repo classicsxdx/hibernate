@@ -4,6 +4,8 @@ import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 
+//added to Git
+
 @Entity (name="USER_DETAILS")
 public class UserDetails {
 	@Id
